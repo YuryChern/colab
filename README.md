@@ -94,7 +94,7 @@ LoRA-based models improved accuracy with minimal additional training cost. The 4
 ## Reproducibility
 
 Open in Google Colab:  
-[![Open in Colab](https://colab.research.google.com/gist/YuryChern/c078899c2ee7988cfe9de34e90656c9f/assignment-2-158736-yury-chernykh-id-14072993.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/YuryChern/c078899c2ee7988cfe9de34e90656c9f/assignment-2-158736-yury-chernykh-id-14072993.ipynb)
 
 > All outputs are preserved. The Colab workflow runs end-to-end, with runtime under 20 minutes using A100.
 
